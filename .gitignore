@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs/ConvertAny2Any.slnx/v18/DocumentLayout.json
+/.vs/ConvertAny2Any.slnx/v18/.suo
+/obj/Debug/net10.0/ConvertAny2Any.AssemblyInfo.cs
+/obj/Debug/net10.0/ConvertAny2Any.AssemblyInfoInputs.cache
